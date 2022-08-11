@@ -488,6 +488,11 @@
     },
     {
       "group": "monitors",
+      "suffix": "_3905753798",
+      "description": "Create a monitor with options returns \"OK\" response"
+    },
+    {
+      "group": "monitors",
       "suffix": "_440013737",
       "description": "Create an Error Tracking monitor returns \"OK\" response"
     }
